@@ -22,4 +22,4 @@ Analyze retail sales data to support business decision-making.
 - CSV
 
 ## 📷 Dashboard Preview
-![Overview](Screenshots/overview.png)
+Retail_Sales_Visualization.pdf
