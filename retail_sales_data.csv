@@ -1,0 +1,11 @@
+OrderID,OrderDate,CustomerName,Region,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit
+1001,2025-01-05,John Smith,East,Furniture,Chairs,Office Chair,250,2,0.1,50
+1002,2025-01-07,Sarah Lee,West,Technology,Phones,Smartphone X,1200,1,0.05,300
+1003,2025-01-09,David Kim,South,Office Supplies,Binders,Standard Binder,15,5,0,5
+1004,2025-01-10,Linda Wong,East,Furniture,Tables,Wooden Table,450,1,0.15,60
+1005,2025-01-12,Michael Brown,North,Technology,Laptops,Laptop Pro,1500,1,0.1,350
+1006,2025-01-15,Emma Davis,West,Furniture,Chairs,Ergonomic Chair,300,2,0.05,80
+1007,2025-01-18,James Wilson,South,Office Supplies,Pens,Gel Pen Set,12,10,0,4
+1008,2025-01-20,Sophia Taylor,North,Technology,Accessories,Wireless Mouse,40,3,0,15
+1009,2025-01-22,Robert Martinez,East,Furniture,Storage,Bookshelf,200,1,0.2,30
+1010,2025-01-25,Olivia Anderson,West,Office Supplies,Paper,Printer Paper,25,5,0,8
